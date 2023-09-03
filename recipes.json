@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Spaghetti Carbonara",
+    "ingredients": ["spaghetti", "eggs", "pancetta", "Parmesan cheese"],
+    "instructions": "Cook spaghetti; mix eggs, pancetta, and Parmesan; combine.",
+    "cookingTime": "20 minutes",
+    "servingSize": "2"
+  },
+  {
+    "id": 2,
+    "title": "Chicken Alfredo",
+    "ingredients": ["chicken", "fettuccine", "heavy cream", "Parmesan cheese"],
+    "instructions": "Cook chicken; cook fettuccine; mix with cream and Parmesan.",
+    "cookingTime": "30 minutes",
+    "servingSize": "4"
+  },
+  {
+    "id": 3,
+    "title": "Vegetable Stir-Fry",
+    "ingredients": ["mixed vegetables", "tofu", "soy sauce", "sesame oil"],
+    "instructions": "Stir-fry vegetables and tofu; add soy sauce and sesame oil.",
+    "cookingTime": "15 minutes",
+    "servingSize": "3"
+  },
+  // Add more recipes...
+]
